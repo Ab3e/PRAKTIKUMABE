@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "name": "Bakso",
+      "description": "Bakso adalah makanan asli Indonesia yang menjadi salah satu makanan favorit di berbagai kalangan. Bakso umumnya terbuat dari daging sapi yang dicincang halus dan dicampur dengan tepung tapioka atau tepung kanji sebagai bahan pengikat. Adonan daging tersebut kemudian dibentuk bulat dan direbus hingga matang.",
+      "imageUrl": "/img/Bakso.jpg",
+      "budget": 15000,
+      "isActive": false,
+      "id": "1"
+    },
+    {
+      "name": "Dimsum",
+      "description": "Dimsum adalah jenis masakan tradisional dari Cina yang terdiri dari berbagai hidangan kecil, biasanya disajikan dalam porsi kecil dan dimakan sebagai sarapan atau camilan. Kata \"dimsum\" sendiri berasal dari bahasa Kantonis yang berarti \"sesuatu yang disentuh hati.\" Dimsum mencakup berbagai hidangan seperti bakpao, pangsit, siomay, bola ikan, dan berbagai jenis kue atau bola daging yang dikukus.",
+      "imageUrl": "/img/Dimsum.jpg",
+      "budget": 20000,
+      "isActive": true,
+      "id": "2"
+    },
+    {
+      "name": "Kerak Telor",
+      "description": "Kerak telor adalah makanan khas Betawi, Jakarta, Indonesia. Hidangan ini terbuat dari beras ketan yang digoreng bersama dengan telur ayam, ebi (udang kering), kelapa parut, bawang merah, bawang putih, dan bumbu-bumbu lainnya. Kerak telor memiliki cita rasa yang khas dan tekstur yang unik, dengan lapisan yang renyah di bagian luar dan lembut di bagian dalam.",
+      "imageUrl": "/img/Kerak Telor.jpg",
+      "budget": 8000,
+      "isActive": true,
+      "id": "3"
+    },
+    {
+      "name": "Nasi Goreng",
+      "description": "Nasi goreng adalah hidangan nasi yang digoreng dalam minyak dan dicampur dengan berbagai bumbu, saus, daging, dan sayuran. Makanan ini sangat populer di Indonesia dan merupakan salah satu masakan yang diakui secara internasional sebagai hidangan khas Indonesia. Nasi goreng biasanya disajikan bersama pelengkap seperti telur mata sapi, irisan mentimun, tomat, acar, dan kerupuk.",
+      "imageUrl": "/img/Nasi Goreng.jpg",
+      "budget": 15000,
+      "isActive": true,
+      "id": "4"
+    },
+    {
+      "name": "Pempek",
+      "description": "Pempek adalah hidangan khas Palembang, Sumatra Selatan, Indonesia. Hidangan ini terbuat dari adonan ikan yang dicampur dengan tepung sagu dan beberapa bumbu, kemudian dibentuk dan dipanggang atau direbus. Pempek umumnya disajikan dengan saus cuko, yang terbuat dari cuka, gula merah, bawang putih, cabai, dan ebi (udang kering).",
+      "imageUrl": "/img/Pempek 3.jpg",
+      "budget": 60000,
+      "isActive": true,
+      "id": "5"
+    },
+    {
+      "name": "Rendang",
+      "description": "\nRendang adalah hidangan daging asal Minangkabau, Sumatra Barat, Indonesia. Hidangan ini terkenal karena proses memasaknya yang panjang dan kaya akan rempah-rempah, sehingga menghasilkan daging yang empuk dan bumbu yang meresap.",
+      "imageUrl": "/img/Rendang.jpg",
+      "budget": 20000,
+      "isActive": false,
+      "id": "6"
+    },
+    {
+      "name": "Siomay",
+      "description": "Siomay terdiri dari potongan-potongan daging yang biasanya terbuat dari ikan tenggiri atau udang, serta beberapa sayuran seperti kentang, kol, telur, dan tahu. Semua bahan-bahan ini dicincang halus dan dicampur dengan bumbu tertentu sebelum dimasukkan ke dalam kulit pangsit yang tipis. Kulit pangsit ini kemudian direbus atau dikukus hingga matang.",
+      "imageUrl": "/img/Siomay.jpg",
+      "budget": 15000,
+      "isActive": false,
+      "id": "7"
+    },
+    {
+      "name": "Cumi",
+      "description": "Makanan yang dihasilkan dari cumi-cumi ini seringkali disebut dengan nama yang sama, yaitu cumi. Cumi dapat diolah menjadi berbagai hidangan, seperti cumi goreng tepung, cumi saus tiram, cumi saus pedas, atau dimasak dalam berbagai cara sesuai dengan selera masakan masing-masing. Hidangan cumi populer dan dijumpai di berbagai restoran, terutama di daerah pesisir atau wilayah yang memiliki akses mudah ke laut.",
+      "imageUrl": "/img/Cumii.jpg",
+      "budget": 30000,
+      "isActive": false,
+      "id": "8"
+    },
+    {
+      "name": "Indomie",
+      "description": "Beberapa varian rasa Indomie yang populer antara lain Mi Goreng (mie goreng), Rendang, Soto, Ayam Bawang, dan banyak lagi. Mi Goreng adalah salah satu varian yang paling terkenal, dengan bumbu kering dan minyak yang memberikan rasa khas dan kenikmatan tersendiri. Indomie sering diolah dengan menambahkan bahan tambahan seperti telur, sayuran, daging, atau bahan lainnya sesuai selera.",
+      "imageUrl": "/img/Indomie.jpg",
+      "budget": 10000,
+      "isActive": false,
+      "id": "9"
+    },
+    {
+      "name": "Mie Ayam",
+      "description": "\nMie ayam adalah hidangan mie yang umumnya terdiri dari mie pangsit yang direbus atau digoreng, disajikan dengan potongan daging ayam, sayuran seperti sawi, dan beberapa bumbu serta kuah kental yang umumnya terbuat dari kaldu ayam. Makanan ini sering diberi tambahan bawang goreng, daun seledri, dan bawang putih goreng untuk memberikan cita rasa dan aroma yang kaya.",
+      "imageUrl": "/img/Mie Ayam.jpg",
+      "budget": 13000,
+      "isActive": false,
+      "id": "10"
+    }
+  ]
+}

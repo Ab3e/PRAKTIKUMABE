@@ -1,0 +1,37 @@
+import React, { useState } from 'react'
+import ProjectCard from './ProjectCard'
+import ProjectForm from './ProjectForm'
+
+const ProjectList = ({ projects, onSave }) => {
+    const [projectBeingEdited, setProjectBeingEdited, projectBeingDeleted, setProjectBeingDeleted] = useState({})
+
+    const handleEdit = (project) => {
+        setProjectBeingEdited(project)
+    }
+
+    const cancelEditing = () => {
+        setProjectBeingEdited({})
+    }
+
+    const handleDelete = (project) => {
+        setProjectBeingDeleted(project)
+    }
+
+    return (
+        <>
+            <div className="row">
+                {projects?.map((project) => (
+                    <div key={project.id} className='cols-sm'>
+                        {project === projectBeingEdited ? (
+                            < ProjectForm onSave={onSave} onCancel={cancelEditing} project={project} />
+                        ) : (
+                            <ProjectCard project={project} onEdit={handleEdit} />
+                        )}
+                    </div>
+                ))}
+            </div>
+        </>
+    )
+}
+
+export default ProjectList

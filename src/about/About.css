@@ -1,0 +1,25 @@
+.about{
+    text-align: center;
+    color: #693301;
+}
+
+img{
+   left: 0;
+   right: 0;
+   border-radius: 20px;
+}
+
+button{
+    color: #ffffff;
+    background-color: #693301;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.IconAbout{
+    margin: 30px;
+}
+
+.AP1{
+    margin-inline: 10px;
+}

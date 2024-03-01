@@ -1,0 +1,27 @@
+.leftside{
+    height: 100%;
+    color: #693301;
+    text-align: center;
+}
+
+#contact-form{
+    width: 100%;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: #693301;   
+}
+
+.form{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.ContactLabel{
+    color: hsl(29,100%,52%);
+    background-color:#693301
+}

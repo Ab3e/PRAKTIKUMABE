@@ -1,0 +1,24 @@
+.home{
+    width: 100%;
+    text-align: center;
+    color: #693301;
+}
+
+.h4home{
+    display: flex;
+    flex-wrap:wrap-reverse;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+
+}
+
+.h4home img{
+    margin: 10px;
+    width: 30%;
+}
+
+.h3home img{
+    margin:10px;
+    width: 30%;
+}
